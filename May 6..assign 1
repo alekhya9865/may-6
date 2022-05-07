@@ -1,0 +1,7 @@
+A={1:['01','D.Alekhya','female','mscs','pass'],2:['02','A.Bhavani','female','mscs','pass'],3:['04','Renuka','female','mscs','pass'],4:['03','Radha','female','B.COM','FAIL'],5:['06','Bhagi','female','MPC','pass']}
+h=int(input('Enter the number: '))
+print('STUDENT ROLL NUMBER : ',A[h][0])
+print('NAME OF THE STUDENT: ',A[h][1])
+print('GENDER : ',A[h][2])
+print('GROUP : ',A[h][3])
+print('RESULT: ',I[h][4])
