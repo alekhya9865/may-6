@@ -1,0 +1,7 @@
+A={1:['D.Alekhya','Teacher','27december2023','60000','vskp'],2:['G.Malika','engineer','14march2022','35000','chennai'],3:['sree','lawyer','25may2022','60000','Hyderabad']}
+n=int(input('Enter the number:'))
+print('Employee name :',A[n][0])
+print('Employee designation:',A[n][1])
+print('D.O.J :',A[n][2])
+print('Employee Salary:',A[n][3])
+print('City:',A[n][4])
